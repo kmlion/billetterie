@@ -1,0 +1,25 @@
+{
+  "name": "billetterie",
+  "version": "1.0.0",
+  "description": "Projet 3 Billetterie",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmlion/billetterie.git"
+  },
+  "author": "Kamel Belaid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kmlion/billetterie/issues"
+  },
+  "homepage": "https://github.com/kmlion/billetterie#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
